@@ -140,12 +140,12 @@ li a{
 
 
 #layout_2_aside li{
-	text-align: center;
+	padding-left: 6px;
 	padding-top: 21px;
 	padding-bottom: 19px;
 }
 
-li.selected_2{
+.selected_2{
 	background-color: #b94a48;
 }
 
